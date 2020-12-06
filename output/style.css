@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(grey, white);
+  background-repeat: no-repeat;
+}
+.row {
+  background-color: black;
+  padding-bottom: 50px;
+}
+.team-heading {
+  background-image: ;
+}
+.employee-card {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.card-header {
+  background-image: linear-gradient(darkgrey, white);
+}
+.card-body {
+  background-image: linear-gradient(teal, darkgrey);
+}
