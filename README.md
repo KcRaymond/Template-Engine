@@ -26,11 +26,10 @@ To install necessary dependencies run the following command:
 
 You must install dependencies for inquirer and jest. To launch the application type node app.js into the terminal and then you will be prompted with the questions.
 
-> Screen shot of generated HTML after running the application
+Screen shot of generated HTML after running the application
+![Alttext](Assets/Application-screenshot.jpg)
 
-    ![Alttext](Assets/Application-screenshot.jpg)
-
-    Here is a link to the video that demos the functionality.
+Here is a link to the video that demos the functionality.
 
 ## Contributing Information:
 
