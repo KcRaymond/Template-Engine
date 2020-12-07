@@ -30,6 +30,7 @@ Screen shot of generated HTML after running the application
 ![Alttext](Assets/Application-screenshot.jpg)
 
 Here is a link to the video that demos the functionality.
+https://drive.google.com/file/d/1stMaxCaoAsmP-uXJODheXyjIeHPaBCM_/view
 
 ## Contributing Information:
 
