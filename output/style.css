@@ -1,13 +1,25 @@
 body {
-  background-image: linear-gradient(grey, white);
+  background-image: linear-gradient(black, grey);
   background-repeat: no-repeat;
+  height: 1000px;
 }
 .row {
   background-color: black;
   padding-bottom: 50px;
 }
+
 .team-heading {
-  background-image: ;
+  background-image: url("../assets/My-team-header.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 250px;
+}
+.text-center {
+  color: white;
+  padding-top: 120px;
+  font-weight: bold;
+  text-shadow: 3px 3px black;
 }
 .employee-card {
   margin-left: 10px;
