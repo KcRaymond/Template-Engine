@@ -28,7 +28,7 @@ You must install dependencies for inquirer and jest. To launch the application t
 
 > Screen shot of generated HTML after running the application
 
-    ![Application screenshot] (https://github.com/KcRaymond/Template-Engine/blob/master/Assets/Application-screenshot.jpg)
+    ![Application screenshot] (https://github.com/KcRaymond/Template-Engine/Assets/Application-screenshot.jpg)
 
     Here is a link to the video that demos the functionality.
 
